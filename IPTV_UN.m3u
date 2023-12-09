@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?starttime={utc:YmdTHMS}&endtime={utcend:YmdTHMS}"
+#EXTM3U
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://20.254.1.9/PLTV/88888888/224/3221225699/10000100000000060000000000013594_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻频道
