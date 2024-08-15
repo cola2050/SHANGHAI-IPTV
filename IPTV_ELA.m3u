@@ -35,18 +35,42 @@ http://192.168.5.249:4022/udp/239.45.0.20:5140
 http://192.168.5.249:4022/udp/239.45.0.12:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://192.168.5.249:4022/udp/239.45.3.52:5140
-#EXTINF:-1 tvg-id="6569" tvg-name="中数央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",中数央视精品
-http://192.168.5.249:4022/udp/239.45.1.17:5140
-#EXTINF:-1 tvg-id="6568" tvg-name="中数高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视",中数高尔夫网球
-http://192.168.5.249:4022/udp/239.45.1.72:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV电视指南
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4k超高清
+http://192.168.5.249:4022/udp/239.45.0.55:5140
+#EXTINF:-1 tvg-id="6569" tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",CCTV文化精品
+http://192.168.5.249:4022/udp/239.45.0.53:5140
+#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",CCTV电视指南
 http://192.168.5.249:4022/udp/239.45.1.73:5140
-#EXTINF:-1 tvg-id="6563" tvg-name="中数兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视",中数兵器科技
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视",CCTV怀旧剧场
+http://192.168.5.249:4022/udp/239.45.0.49:5140
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视",CCTV风云剧场
+http://192.168.5.249:4022/udp/239.45.0.50:5140
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视",CCTV第一剧场
+http://192.168.5.249:4022/udp/239.45.0.51:5140
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视",CCTV兵器科技
 http://192.168.5.249:4022/udp/239.45.1.74:5140
-#EXTINF:-1 tvg-id="6000" tvg-name="中数风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",中数风云足球
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视",CCTV世界地理
+http://192.168.5.249:4022/udp/239.45.0.46:5140
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视",CCTV女性时尚
+http://192.168.5.249:4022/udp/239.45.0.47:5140
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",CCTV风云音乐
+http://192.168.5.249:4022/udp/239.45.0.52:5140
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",CCTV风云足球
 http://192.168.5.249:4022/udp/239.45.1.75:5140
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",CCTV央视台球
+http://192.168.5.249:4022/udp/239.45.0.44:5140
+#EXTINF:-1 tvg-id="6568" tvg-name="CCTV高网" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视",CCTV高网
+http://192.168.5.249:4022/udp/239.45.1.72:5140
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视",CHC家庭影院
+http://192.168.5.249:4022/udp/239.45.0.40:5140
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视",CHC动作电影
+http://192.168.5.249:4022/udp/239.45.0.41:5140
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视",CHC影迷电影
+http://192.168.5.249:4022/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://192.168.5.249:4022/udp/239.45.1.194:5140
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="央视",CETV早期教育
+http://192.168.5.249:4022/udp/239.45.0.54:5140
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",中国教育1台
 http://192.168.5.249:4022/udp/239.45.1.125:5140
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",中国教育2台
@@ -56,7 +80,7 @@ http://192.168.5.249:4022/udp/239.45.0.21:5140
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻频道
 http://192.168.5.249:4022/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视
-http://192.168.5.249:4022/udp/239.45.3.146:5140
+http://192.168.5.249:4022/udp/239.45.3.61:5140
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://192.168.5.249:4022/udp/239.45.3.178:5140
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
@@ -177,7 +201,7 @@ http://192.168.5.249:4022/udp/239.45.1.46:5140
 http://192.168.5.249:4022/udp/239.45.3.248:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",崇明电视
 http://192.168.5.249:4022/udp/239.45.1.54:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",嘉定频道
+#EXTINF:-1 tvg-id="嘉定电视" tvg-name="嘉定电视" tvg-logo="https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/fd039245d688d43f7a0776a37d1ed21b0ef43b31.jpg" group-title="上海",嘉定电视
 http://192.168.5.249:4022/udp/239.45.3.185:5140
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海",金色学堂
 http://192.168.5.249:4022/udp/239.45.1.118:5140
@@ -195,7 +219,11 @@ http://192.168.5.249:4022/udp/239.45.1.1:5140
 http://192.168.5.249:4022/udp/239.45.1.108:5140
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="上海",家庭理财
 http://192.168.5.249:4022/udp/239.45.0.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",新冠病毒
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="" group-title="上海",睛彩竞技
+http://192.168.5.249:4022/udp/239.45.3.53:5140
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="上海",先锋乒羽SD
+http://192.168.5.249:4022/udp/239.45.3.43:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",防疫宣传
 http://192.168.5.249:4022/udp/239.45.3.235:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="上海",快乐垂钓
 http://192.168.5.249:4022/udp/239.45.3.12:5140
