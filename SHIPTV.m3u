@@ -1,3 +1,5 @@
-#EXTM3U name="电信IPTV"
-#EXTINF:-1,CCTV1
-http://192.168.5.249:4022/rtp/239.45.3.145:5140
+#EXTM3U
+#EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Entertainment",8TV (1080p) [Geo-blocked]
+http://192.168.5.249:4022/udp/239.45.3.145:5140
+#EXTINF:-1 tvg-id="ABNChina.us" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious",ABN China (720p)
+http://192.168.5.249:4022/udp/239.45.0.1:5140
